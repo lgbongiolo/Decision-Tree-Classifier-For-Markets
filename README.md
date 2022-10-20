@@ -25,7 +25,7 @@
 - Add Asset Price Chart
 - Fix Chart legend
 - Translate remaining parameters 
-- Calculate the target - we could change the decision between bullish or bearsih to another concept like below or above moving average
+- Calculate the target - we could change the decision between bullish or bearish to another concept like below or above moving average
 - Model that identifies the change between open and close to classify as accumulation or trend
 - Compare to buy and hold
 - Compare to Dollar cost average 
