@@ -18,7 +18,6 @@
 
 
 ### Future implementations:
-- Add more variables 
 - Modify Daily return from pips to %
 - Add Stop Loss 
 - Add Asset Train Test Price Chart
